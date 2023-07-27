@@ -13,7 +13,6 @@
 #include <stdio.h>
 
 using namespace std;
-
 #include "NgramTree.h"
 
 
