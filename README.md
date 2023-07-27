@@ -1,2 +1,2 @@
-# bilkent_cs202
-Bilkent CS202 Summer 2023
+*Author: Sümeyye ACAR - www.linkedin.com/in/acar-sumeyye*
+# Bilkent CS202 Summer 2023
