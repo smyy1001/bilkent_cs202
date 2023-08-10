@@ -10,7 +10,6 @@
 #include "avlTree.h"
 using namespace std;
 
-
 int main(int argc, char* argv[]) {
 
     // input file to read from
